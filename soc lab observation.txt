@@ -1,0 +1,65 @@
+                 AGILE MATHODOLOGY OR AGILE PRACTICES
+
+
+LIFE CYCLE PHASES:
+1.requirements
+2.design
+3.coding
+4.testing
+5.deployement
+6.maintainence
+
+MAJOR MODELS USED IN SOFTWARE ENGINEERING:
+1.water fall model
+2.spiral model
+3.protype model
+
+AGILE PRACTICES:
+agile methodology is nothing but a systamatic engineering approach to deliver software produts in software industry
+
+AGLIE PRINCIPLES:
+1.our highest priority is to satisfy the customer through EARLY AND CONTINUOS DEIVERY of valuable software
+2.welcome CHANGING REQUIREMENTS even late in devolopment agile process change for customer for the customer's COMPETATIVE ADVANTAGE
+3.DELIVER WORKING SOFTWARE frequently from a couple of weeeks to a couple of months with a preference to the SHORTER TIMESCALE
+4.bussines people and devolopers must work TOGETHER DAILY throughout the project
+5.the most efficient and effective method of conveying information to and within a devolopment team is FACE TO FACE CONVERSATION
+6.build projects around MOTIVATIONAL INDIVIDUALS file then the envinorment support they need 
+7.WORKING software is the measure of PROGRESS
+8.agile process promote SUSTAINABLE dvolopment the sponsers devolopers maintain constant pace INDEFINITELY
+9.TECHNICAL exellence and GOOD DESIGN
+10.SELF ORGANISING TEAM CULTURING
+
+AGILE CROSS FUNCTIONAL TEAM:
+1.every agile team contains self sufficient team with 5 to 9 team members
+2.the average experince to each member is 6 to 10 years
+3.he agile teamcontains 3 to 4devolopers 1 tester,1 technicalhead,one scrum master and 1 product owner 
+
+WORKING WITH GIT:
+1. CREATE PUBLIC REPROSETERY IN A GIT 
+
+STEP1: SIGN IN GIT HUB ACCOUNT
+STEP2:CLICK ON REPOSETRIES AGAIN CLICK NEW REPROSETERY
+STEP3:
+
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
